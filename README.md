@@ -6,4 +6,4 @@ Dr. Haluk ÖZAKYOL www.linkedin.com/in/hozakyol
 
 Enes YILDIRIM www.linkedin.com/in/enesyildirim1
 
-
+![resim](https://github.com/EnesYildirim1/BiomimeticQuadrupedRobot/assets/108119567/ebd22532-91a4-4027-8c87-480d80845b71)
