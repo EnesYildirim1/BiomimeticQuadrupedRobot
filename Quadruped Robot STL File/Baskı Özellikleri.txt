@@ -1,0 +1,34 @@
+Parca1= %100 doluluk oranı ile basılacaktır. Baskı boyutu büyük olduğu için Zaxe'nin büyük boy yazıcısı ile basılması tercih edilir. Yazıcıdan yüksek kalitede ve mümkünse beyaz PLA filament ile yüksek kalitede basmanız tavsiye edilmelidir.
+
+Parca2= 2 Adet basılacaktır. Orta kalitede basılabilir. Doluluk oranı %50 olması tercih edilir. Bu iki parça tek baskıda yapılabilir.
+
+Parça3= 4 addet basılacaktır ve doluluk oranı %50 idealdir. Yüksek kalitede basılmalıdır. Parçaların ayrı ayrı basılması duva kalitesi açısından tercih edilir.
+
+Parca4= 4 adet basılacaktır ve %100 doluluk ile orta kalitede basılması gerekmektedir. 4 parça da aynı tablada basılabilir.
+
+Parca5= 2 adet basılacaktır ve %40 doluluk oranı ile yüksek kalitede basılacaktır iki parça da aynı anda basılabilir.
+
+Parca6= 2 adet basılacaktır ve %40 doluluk oranı ile yüksek kalitede basılacaktır iki parça da aynı anda basılabilir.
+
+Parca7 ve Parca8= 2 adet basılacaktır ve %100 doluluk oranı ile yüksek kalitede basılacaktır Parca7 ve Parca8 aynı anda basılabilir.
+
+Parca9= 2 adet basılacaktır ve %40 doluluk oranı ile yüksek kalitede basılacaktır iki parça da aynı anda basılabilir.
+
+Parca10= 2 adet basılacaktır ve %40 doluluk oranı ile yüksek kalitede basılacaktır iki parça da aynı anda basılabilir.
+
+Parca11x= 1 adet basılacaktır ve %50 doluluk oranı ile basılacaktır. 4 parca da aynı tablada basılabilir.
+
+Parca12= 2 adet basılacaktır. %100 doluluk oranı ile basılacaktır. Yüksek kalitede basılmalıdır.
+
+Parca13= 2 adet basılacaktır ve %100 doluluk ile yüksek kalitede basılacaktır.
+
+Parca14= 1 adet basılacaktır ve %50 doluluk oranı ile basılacaktır.
+
+Parca15= 1 adet basılacaktır ve %50 doluluk oranı ile basılacaktır.
+
+
+
+
+
+
+
